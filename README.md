@@ -36,11 +36,11 @@ Here are some example waterfalls using Fetch Inject.
 
 **WordPress Twenty Seventeen + Fetch Inject - Unprimed Cache**
 
-[![Fetch Inject Unprimed Cache](https://raw.githubusercontent.com/jhabdas/fetch-inject/blob/master/docs/fetch-inject-unprimed-cache.png)](https://wordcamp.habd.as/)
+[![Fetch Inject Unprimed Cache](https://github.com/jhabdas/fetch-inject/blob/master/docs/fetch-inject-serviceworker-caching.png?raw=true)](https://wordcamp.habd.as/)
 
 **WordPress Twenty Seventeen + Fetch Inject - Service Worker Cache**
 
-[![Fetch Inject Service Worker Cache](https://raw.githubusercontent.com/jhabdas/fetch-inject/blob/master/docs/fetch-inject-serviceworker-caching.png)](https://wordcamp.habd.as/)
+[![Fetch Inject Service Worker Cache](https://github.com/jhabdas/fetch-inject/blob/master/docs/fetch-inject-serviceworker-caching.png?raw=true)](https://wordcamp.habd.as/)
 
 Click an image for a live demo to reproduce the above results, try out the [Hyperdrive Plugin for WordPress](#wordPress-plugin) (currently in beta) or [download the library now](#download).
 
