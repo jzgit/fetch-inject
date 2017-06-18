@@ -316,4 +316,6 @@ Access the plugin beta [Hyperdrive repo](https://github.com/wp-id/hyperdrive) on
 
 ## License
 
-[![ISC](https://img.shields.io/github/license/jhabdas/fetch-inject.svg?style=flat-square)](https://github.com/jhabdas/fetch-inject/blob/master/LICENSE "ISC License")
+ISC License
+
+Copyright (c) 2017, Josh Habdas <josh@habd.as> (https://habd.as)
