@@ -316,6 +316,5 @@ Access the plugin beta [Hyperdrive repo](https://github.com/wp-id/hyperdrive) on
 
 ## License
 
-ISC License
-
 Copyright (c) 2017, Josh Habdas <josh@habd.as> (https://habd.as)
+Made available under ISC. Wrappers for Magento, WordPress and Drupal upon request only.
